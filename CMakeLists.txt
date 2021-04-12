@@ -9,7 +9,7 @@ set(HUNTER_JOBS_NUMBER 4 CACHE STRING "Hunter jobs number")
 set(HUNTER_CACHE_SERVERS "https://github.com/ethereum/hunter-cache" CACHE STRING "Hunter cache servers")
 
 HunterGate(
-	URL "https://github.com/ruslo/hunter/archive/v0.23.44.tar.gz"
+	URL "https://github.com/jvdp/hunter/archive/refs/heads/master.tar.gz"
 	SHA1 "c4cfcc0cd39fdae8de08f6205b7f34cab4a7ba79"
 	LOCAL
 )
