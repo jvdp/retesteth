@@ -10,7 +10,7 @@ set(HUNTER_CACHE_SERVERS "https://github.com/ethereum/hunter-cache" CACHE STRING
 
 HunterGate(
 	URL "https://github.com/jvdp/hunter/archive/refs/heads/master.tar.gz"
-	SHA1 "d589532c3cfb61c76e991469e12ab7d7a7a584c5"
+	SHA1 "13f3a374e0c472a34f1d7e9a1053b22ac936d26b"
 	LOCAL
 )
 
